@@ -1,0 +1,21 @@
+body{
+scroll-behavior: smooth;
+font-family: Arial;
+}
+
+#home{
+background: linear-gradient(to right,#667eea,#764ba2);
+color:white;
+}
+
+section{
+padding-top:80px;
+}
+
+.card{
+transition:0.3s;
+}
+
+.card:hover{
+transform:scale(1.05);
+}
